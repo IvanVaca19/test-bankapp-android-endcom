@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BankTest</string>
+    <string name="bank_app">Bank App</string>
+    <string name="add_cards">Agregar una tarjeta de débito o crédito</string>
+    <string name="cancel">Cancelar</string>
+    <string name="add">Agregar</string>
+    <string name="movimientos_recientes">Movimientos Recientes</string>
+</resources>
